@@ -27,10 +27,10 @@ export default async function Image() {
           padding: '1rem',
         }}>
         <h1 style={{ fontSize: 32, color: '#18f2e5', margin: 0 }}>
-          John Doe | Full-Stack Web Developer in Chicago
+          Aswanth K Anil
         </h1>
         <h2 style={{ fontSize: 40, color: 'white', marginTop: 30 }}>
-          Crafting innovative solutions to solve real-world problems
+          Full-Stack Web Developer in Bangalore | React, NextJS, Ruby on Rails Expert | Building Modern Web Applications
         </h2>
       </div>
     ),
