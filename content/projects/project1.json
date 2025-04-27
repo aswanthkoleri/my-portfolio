@@ -1,0 +1,10 @@
+{
+  "priority": 1,
+  "title": "AI Proctoring Library",
+  "shortDescription": "A comprehensive JavaScript library for online exam proctoring that detects suspicious behavior, monitors browser activity, and prevents cheating through advanced AI algorithms. Features include face detection, multiple face alerts, tab switch detection, and full-screen monitoring.",
+  "cover": "/assets/images/proctoring-project.png",
+  "livePreview": "",
+  "packageLink": "https://www.npmjs.com/package/exam-guard",
+  "type": "Professional Work 🙍‍♂️",
+  "siteAge": "6 months old"
+}
